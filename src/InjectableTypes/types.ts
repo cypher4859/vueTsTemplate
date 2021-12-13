@@ -5,6 +5,7 @@ interface IRegistryTypes {
 }
 
 const TYPES : IRegistryTypes = {
+  // ISomeType: Symbol('ISomeType'),
 }
 
 export default TYPES
